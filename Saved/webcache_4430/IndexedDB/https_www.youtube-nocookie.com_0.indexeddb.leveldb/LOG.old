@@ -1,0 +1,6 @@
+2023/12/12-19:36:04.741 30d0 Creating DB E:/UNREAL ENGINE/proyectos/CombatSystem_IA/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2023/12/12-19:36:04.844 30d0 Reusing MANIFEST E:/UNREAL ENGINE/proyectos/CombatSystem_IA/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/12/12-19:36:08.110 30ec Level-0 table #5: started
+2023/12/12-19:36:08.200 30ec Level-0 table #5: 1147 bytes OK
+2023/12/12-19:36:08.358 30ec Delete type=0 #3
+2023/12/12-19:36:08.368 30ec Manual compaction at level-0 from (begin) .. (end); will stop at (end)

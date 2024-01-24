@@ -1,0 +1,6 @@
+[1212/193150.997:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[1212/194434.392:ERROR:cache_util_win.cc(20)] Unable to move the cache: Acceso denegado. (0x5)
+[1212/194434.413:ERROR:cache_util.cc(144)] Unable to move cache folder E:/UNREAL ENGINE/proyectos/CombatSystem_IA/Saved/webcache_4430\Cache to E:/UNREAL ENGINE/proyectos/CombatSystem_IA/Saved/webcache_4430\old_Cache_000
+[1212/194434.414:ERROR:disk_cache.cc(184)] Unable to create cache
+[1212/194440.588:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1212/194630.517:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled

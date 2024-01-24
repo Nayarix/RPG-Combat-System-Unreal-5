@@ -1,0 +1,15 @@
+2023/12/12-19:36:08.821 30ec Reusing MANIFEST E:/UNREAL ENGINE/proyectos/CombatSystem_IA/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/12/12-19:36:08.822 30ec Recovering log #4
+2023/12/12-19:36:08.822 30ec Reusing old log E:/UNREAL ENGINE/proyectos/CombatSystem_IA/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000004.log 
+2023/12/13-22:42:54.661 4bf4 Level-0 table #8: started
+2023/12/13-22:42:54.804 4bf4 Level-0 table #8: 307 bytes OK
+2023/12/13-22:42:54.873 4bf4 Delete type=0 #4
+2023/12/13-22:42:54.894 4bf4 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/12/13-22:42:54.963 4bf4 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x16\x00y\x00t\x00-\x00i\x00d\x00b\x00-\x00t\x00e\x00s\x00t\x00-\x00d\x00o\x00-\x00n\x00o\x00t\x00-\x00u\x00s\x00e' @ 57 : 0
+2023/12/13-22:42:54.963 4bf4 Compacting 1@1 + 1@2 files
+2023/12/13-22:42:55.053 4bf4 Generated table #9@1: 18 keys, 534 bytes
+2023/12/13-22:42:55.053 4bf4 Compacted 1@1 + 1@2 files => 534 bytes
+2023/12/13-22:42:55.130 4bf4 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/12/13-22:42:55.131 4bf4 Delete type=2 #5
+2023/12/13-22:42:55.131 4bf4 Delete type=2 #8
+2023/12/13-22:42:55.131 4bf4 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x16\x00y\x00t\x00-\x00i\x00d\x00b\x00-\x00t\x00e\x00s\x00t\x00-\x00d\x00o\x00-\x00n\x00o\x00t\x00-\x00u\x00s\x00e' @ 57 : 0 .. (end); will stop at (end)

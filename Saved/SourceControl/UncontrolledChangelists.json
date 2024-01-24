@@ -1,0 +1,33 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/UNREAL ENGINE/proyectos/CombatSystem_IA/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"E:/UNREAL ENGINE/proyectos/CombatSystem_IA/Content/ThirdPerson/Blueprints/BPC_AtackSystem.uasset",
+				"E:/UNREAL ENGINE/proyectos/CombatSystem_IA/Content/ThirdPerson/Input/Actions/IA_Atack.uasset",
+				"E:/UNREAL ENGINE/proyectos/CombatSystem_IA/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"E:/UNREAL ENGINE/proyectos/CombatSystem_IA/Content/Mixamo/Paladin/Animaciones/Combate/Sword_And_Shield_Slash2.uasset",
+				"E:/UNREAL ENGINE/proyectos/CombatSystem_IA/Content/Mixamo/Paladin/Animaciones/Combate/Sword_And_Shield_Kick3.uasset",
+				"E:/UNREAL ENGINE/proyectos/CombatSystem_IA/Content/Mixamo/Paladin/Animaciones/Combate/Stable_Sword_Outward_Slash1.uasset",
+				"E:/UNREAL ENGINE/proyectos/CombatSystem_IA/Content/Mixamo/Paladin/Animaciones/Combate/Stable_Sword_Inward_Slash4.uasset",
+				"E:/UNREAL ENGINE/proyectos/CombatSystem_IA/Content/Mixamo/Paladin/Animaciones/Combate/Stable_Sword_Inward_Slash4_Montage.uasset",
+				"E:/UNREAL ENGINE/proyectos/CombatSystem_IA/Content/Mixamo/Paladin/Animaciones/Combate/Stable_Sword_Outward_Slash1_Montage.uasset",
+				"E:/UNREAL ENGINE/proyectos/CombatSystem_IA/Content/Mixamo/Paladin/Animaciones/Combate/Sword_And_Shield_Kick3_Montage.uasset",
+				"E:/UNREAL ENGINE/proyectos/CombatSystem_IA/Content/Mixamo/Paladin/Animaciones/Combate/Sword_And_Shield_Slash2_Montage.uasset",
+				"E:/UNREAL ENGINE/proyectos/CombatSystem_IA/Content/Mixamo/Paladin/Animaciones/Combate/Sword_And_Shield_Slash__1_.uasset",
+				"E:/UNREAL ENGINE/proyectos/CombatSystem_IA/Content/ThirdPerson/Blueprints/Animaciones/Attack1.uasset",
+				"E:/UNREAL ENGINE/proyectos/CombatSystem_IA/Content/ThirdPerson/Blueprints/Animaciones/Attack2.uasset",
+				"E:/UNREAL ENGINE/proyectos/CombatSystem_IA/Content/ThirdPerson/Blueprints/Animaciones/Attack3.uasset",
+				"E:/UNREAL ENGINE/proyectos/CombatSystem_IA/Content/ThirdPerson/Blueprints/Animaciones/Kick.uasset",
+				"E:/UNREAL ENGINE/proyectos/CombatSystem_IA/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"E:/UNREAL ENGINE/proyectos/CombatSystem_IA/Content/ThirdPerson/Blueprints/Animaciones/Attack1_Montage.uasset",
+				"E:/UNREAL ENGINE/proyectos/CombatSystem_IA/Content/ThirdPerson/Blueprints/Animaciones/Attack2_Montage.uasset",
+				"E:/UNREAL ENGINE/proyectos/CombatSystem_IA/Content/ThirdPerson/Blueprints/Animaciones/Attack3_Montage.uasset",
+				"E:/UNREAL ENGINE/proyectos/CombatSystem_IA/Content/ThirdPerson/Blueprints/Animaciones/Kick_Montage.uasset"
+			]
+		}
+	]
+}
